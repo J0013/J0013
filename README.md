@@ -2,8 +2,7 @@
 ====================================================================
   README de perfil de GitHub — repo especial: J0013/J0013
   Tema: oscuro + acento cian (#22D3EE) · marca Triskel · banner estilo Palantir
-  Placeholders a rellenar:  [EMAIL] · [LINKEDIN]
-  URL Triskel: usar triskelai.com cuando esté live (ahora placeholder)
+  Pendiente: triskelai.com aún no está live (dominio futuro)
 ====================================================================
 -->
 
@@ -22,16 +21,17 @@
 
 </div>
 
-<!-- ===================== NOMBRE + APODO ===================== -->
-<h1 align="center">Hola, soy Javier Núñez Paredes — J13</h1>
-<h3 align="center">Builder de sistemas de IA y automatización</h3>
+<!-- ===================== SALUDO + METADATOS + BIO (alineado izquierda · Palantir) ===================== -->
+<h1 align="left">Hola, soy Javier Núñez Paredes — J13</h1>
+
+<!-- fila de metadatos estilo terminal: badges flat-square sobrios, cian como acento -->
+![LOC](https://img.shields.io/badge/LOC-ES-22D3EE?style=flat-square&labelColor=0A0A0A)
+![FOCUS](https://img.shields.io/badge/FOCUS-TRISKEL-E5E5E5?style=flat-square&labelColor=0A0A0A)
+![STACK](https://img.shields.io/badge/STACK-LOCAL--AI_%2B_AUTOMATION-E5E5E5?style=flat-square&labelColor=0A0A0A)
+[![WEB](https://img.shields.io/badge/WEB-triskelai.com-22D3EE?style=flat-square&labelColor=0A0A0A)](https://triskelai.com)
 
 <!-- ===================== BIO CORTA ===================== -->
-<p align="center">
-Builder de sistemas de IA y automatización.<br/>
-Construyo dos cosas: automatizaciones que quitan trabajo manual a negocios, y sistemas de inteligencia<br/>
-empresarial que corren en local para empresas que no quieren que sus datos salgan a la nube.
-</p>
+Construyo dos cosas: automatizaciones que quitan trabajo manual a negocios, y sistemas de inteligencia empresarial que corren en local — para empresas que no quieren que sus datos salgan a la nube.
 
 <br/>
 
@@ -95,26 +95,23 @@ IA que corre en la oficina del cliente, sin que los datos salgan de ahí.
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub en números
+<!-- ===================== FOCO ACTUAL (cualitativo · sustituye stats/trophies) ===================== -->
+## 🎯 Foco actual
 
-<!--
-  Enfoque para perfil que arranca:
-  - Top languages (refleja en qué trabajas, no cuántos commits llevas)
-  - Streak (premia constancia diaria, no volumen)
-  - Stats card con count_private + exclude rank D para que no se vea pobre
--->
+Construyendo **Triskel** — dos líneas de producto:
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=J0013&show_icons=true&count_private=true&hide_rank=false&include_all_commits=true&bg_color=0D1117&title_color=22D3EE&text_color=E6FBFF&icon_color=22D3EE&border_color=22D3EE&hide_border=false" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0013&layout=compact&langs_count=8&hide=jupyter%20notebook&bg_color=0D1117&title_color=22D3EE&text_color=E6FBFF&border_color=22D3EE&hide_border=false" alt="top langs" />
+— **Automatización** · flujos que quitan trabajo manual a negocios.<br/>
+— **Inteligencia empresarial** · IA local que convierte información dispersa en decisiones, sin que los datos salgan de la oficina.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=J0013&theme=transparent&hide_border=false&border=22D3EE&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E6FBFF&dates=8B97A8&currStreakNum=E6FBFF&sideNums=E6FBFF" alt="streak" />
+<!-- ===================== CÓMO CONSTRUYO ===================== -->
+## ⚙️ Cómo construyo
 
-</div>
+— Sistemas modulares, no scripts sueltos.<br/>
+— IA local primero: soberanía del dato sobre comodidad.<br/>
+— Automatización sobre infraestructura propia, no dependencias de terceros.<br/>
+— Menos humo, más sistemas que funcionan solos.
 
 <br/>
 
@@ -138,17 +135,6 @@ IA que corre en la oficina del cliente, sin que los datos salgan de ahí.
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=J0013&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Commits,Followers,Repositories,MultiLanguage,Reviews&rank=-C,-B" alt="trophies" />
-
-</div>
-
-<br/>
-
 <!-- ===================== CONTACTO ===================== -->
 ## 📡 Dónde encontrarme
 
@@ -157,24 +143,20 @@ IA que corre en la oficina del cliente, sin que los datos salgan de ahí.
 [![Web](https://img.shields.io/badge/triskelai.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://triskelai.com)
 [![Instagram](https://img.shields.io/badge/@triskel.ia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/triskel.ia)
 [![TikTok](https://img.shields.io/badge/@triskel.ia-000000?style=for-the-badge&logo=tiktok&logoColor=22D3EE)](https://tiktok.com/@triskel.ia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-n%C3%BA%C3%B1ez-paredes-81a66b159/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiernunezparedes@gmail.com)
 
 </div>
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ===================== FOOTER (sobrio · coherente con banner Palantir) ===================== -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=J0013&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="profile views" />
 
-<br/><br/>
-
-> _"El mejor código es el que ejecuta tu trabajo mientras tú duermes."_ 🌙
-
-<sub>🔻 Tres líneas, un solo sistema. — <b>Triskel</b></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0E7490,100:0D1117&height=120&section=footer" alt="footer" />
-
 </div>
+
+---
+
+<p align="center"><sub><code>J13 · 2026 · Información. Decisión. Acción. · triskelai.com</code></sub></p>
