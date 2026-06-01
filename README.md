@@ -95,26 +95,6 @@ IA que corre en la oficina del cliente, sin que los datos salgan de ahí.
 
 <br/>
 
-<!-- ===================== FOCO ACTUAL (cualitativo · sustituye stats/trophies) ===================== -->
-## 🎯 Foco actual
-
-Construyendo **Triskel** — dos líneas de producto:
-
-— **Automatización** · flujos que quitan trabajo manual a negocios.<br/>
-— **Inteligencia empresarial** · IA local que convierte información dispersa en decisiones, sin que los datos salgan de la oficina.
-
-<br/>
-
-<!-- ===================== CÓMO CONSTRUYO ===================== -->
-## ⚙️ Cómo construyo
-
-— Sistemas modulares, no scripts sueltos.<br/>
-— IA local primero: soberanía del dato sobre comodidad.<br/>
-— Automatización sobre infraestructura propia, no dependencias de terceros.<br/>
-— Menos humo, más sistemas que funcionan solos.
-
-<br/>
-
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ## 🐍 Contribution graph
 
