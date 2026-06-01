@@ -1,24 +1,21 @@
 <!--
 ====================================================================
   README de perfil de GitHub — repo especial: J0013/J0013
-  Tema: oscuro + acento cian (#22D3EE) · marca Triskel
-  Placeholders a rellenar:  [NOMBRE "APODO" APELLIDO] · [EMAIL] · [LINKEDIN]
+  Tema: oscuro + acento cian (#22D3EE) · marca Triskel · banner estilo Palantir
+  Placeholders a rellenar:  [EMAIL] · [LINKEDIN]
   URL Triskel: usar triskelai.com cuando esté live (ahora placeholder)
 ====================================================================
 -->
 
-<!-- ===================== BANNER SUPERIOR (capsule-render) ===================== -->
+<!-- ===================== BANNER SUPERIOR (SVG custom · estilo Palantir) ===================== -->
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=200&section=header&text=J0013&fontSize=72&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Builder%20de%20sistemas%20de%20IA%20y%20automatizaci%C3%B3n&descSize=18&descAlignY=58&descColor=E6FBFF"
-  alt="banner"
-/>
+<img src="assets/banner.svg" width="100%" alt="J13 — Builder de sistemas de IA y automatización" />
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=Construyo+sistemas+de+IA;Automatizo+lo+repetitivo;Convierto+datos+dispersos+en+decisiones;Building+in+public"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=500&height=45&lines=Construyo+sistemas+de+IA;Automatizo+procesos;IA+local%2C+datos+soberanos;Informaci%C3%B3n.+Decisi%C3%B3n.+Acci%C3%B3n.;Building+in+public"
     alt="typing"
   />
 </a>
@@ -26,14 +23,14 @@
 </div>
 
 <!-- ===================== NOMBRE + APODO ===================== -->
-<h1 align="center">👋 ¡Hola! Soy <a href="https://triskelai.com">[NOMBRE "APODO" APELLIDO]</a></h1>
+<h1 align="center">Hola, soy Javier Núñez Paredes — J13</h1>
 <h3 align="center">Builder de sistemas de IA y automatización</h3>
 
 <!-- ===================== BIO CORTA ===================== -->
 <p align="center">
-Diseño y construyo sistemas que <b>piensan, automatizan y deciden</b>.<br/>
-Mi obsesión: que lo repetitivo se ejecute solo y que los datos dispersos se conviertan en decisiones útiles.<br/>
-Ahora mismo estoy levantando <b>Triskel</b> 🔻 — automatización + inteligencia empresarial soberana con hardware local.
+Builder de sistemas de IA y automatización.<br/>
+Construyo dos cosas: automatizaciones que quitan trabajo manual a negocios, y sistemas de inteligencia<br/>
+empresarial que corren en local para empresas que no quieren que sus datos salgan a la nube.
 </p>
 
 <br/>
@@ -46,13 +43,12 @@ Ahora mismo estoy levantando <b>Triskel</b> 🔻 — automatización + inteligen
 <td width="60" align="center">🔻</td>
 <td>
 
-**[Triskel](https://triskelai.com)** &nbsp;·&nbsp; <sub>web en construcción → `triskelai.com`</sub>
+**[Triskel](https://triskelai.com)** &nbsp;·&nbsp; <sub>`triskelai.com`</sub>
 
-> **Línea 1 — Automatización.** Sistemas que eliminan el trabajo repetitivo.
-> **Línea 2 — Inteligencia empresarial soberana.** IA corriendo sobre *hardware local*, datos que no salen de casa.
+Automatización de procesos + inteligencia empresarial sobre infraestructura local.
+IA que corre en la oficina del cliente, sin que los datos salgan de ahí.
 
-Estoy en fase de arranque y lo hago **building in public**: commits pequeños, hierro real, cero humo.
-Si ves poca actividad pública todavía, es porque la base se está fraguando 🔧 — lo bueno viene rodado.
+<sub>En construcción.</sub>
 
 </td>
 </tr>
