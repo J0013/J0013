@@ -121,8 +121,7 @@ IA que corre en la oficina del cliente, sin que los datos salgan de ahí.
 <div align="center">
 
 [![Web](https://img.shields.io/badge/triskelai.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://triskelai.com)
-[![Instagram](https://img.shields.io/badge/@triskel.ia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/triskel.ia)
-[![TikTok](https://img.shields.io/badge/@triskel.ia-000000?style=for-the-badge&logo=tiktok&logoColor=22D3EE)](https://tiktok.com/@triskel.ia)
+[![Instagram](https://img.shields.io/badge/@triskel.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/triskel.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-n%C3%BA%C3%B1ez-paredes-81a66b159/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiernunezparedes@gmail.com)
 
